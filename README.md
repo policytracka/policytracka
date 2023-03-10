@@ -1,3 +1,5 @@
+![Logo](https://user-images.githubusercontent.com/48949523/224325726-f42a0c3a-1af6-4086-bce9-b506e417a9e0.png)
+
 # นโยบายtracka 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 
