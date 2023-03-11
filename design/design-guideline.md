@@ -1,6 +1,6 @@
 ![Logo](https://user-images.githubusercontent.com/48949523/224325622-7829dcf6-33fd-4690-96bd-4b51f63f755e.png)
 
-# Design Guideline for PolicyTracka : Clean and Colorful Design with Dark Blue, Orange, Yellow, Teal, and Aqua
+# Design Guideline for PolicyTracka : Clean and Colorful Design with Dark Blue, Orange, Yellow, Teal, Aqua and White
 
 ## Introduction
 This design guideline aims to create a clean and colorful design that primarily uses dark blue, orange, yellow, teal, and aqua as its color palette. These colors can be used in various ways to create a visually appealing design while maintaining a clean and organized look.
