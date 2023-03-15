@@ -1,0 +1,10 @@
+body{
+  /* font-family: 'Kanit' 'Poppins'  sans-serif;  
+   */
+   font-family:  'Poppins', 'Kanit',sans-serif;
+}
+.bggrad {
+  background-size: 100% 200%;
+  @apply bg-gradient-to-b from-primary to-secondary
+
+}
